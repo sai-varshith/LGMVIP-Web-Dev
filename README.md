@@ -1,1 +1,1 @@
-## It is the Task_02 with the help of create-react-app
+## This is the second task of my internship at LGM
