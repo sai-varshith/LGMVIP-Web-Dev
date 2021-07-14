@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: 'Baloo Bhai 2', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  padding: 0;
+  background-image: url(https://ak.picdn.net/shutterstock/videos/28023064/thumb/1.jpg);
+  background-position: center -1%;
+  background-size: cover;
+}
+
+h1{
+  color: black;
+  text-shadow: 0.2;
+}
+h3{
+  color: black;
+  text-shadow: 0.2;
+}
+
+code {
+  font-family: 'Baloo Bhai 2', cursive;
+}
